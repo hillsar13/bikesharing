@@ -44,3 +44,18 @@ The following visualizations were pulled from the Tableau links:
 
 <img width="957" alt="Screen Shot 2022-04-03 at 2 29 31 PM" src="https://user-images.githubusercontent.com/95551195/161447230-1fed9204-975a-45f5-9083-d9d45f480a79.png">
 
+## Summary
+Our previous visualizations provide a a few trend indications of consideration. First, there appears to be a gender descrepancy with more Male users utilizing the service. There also appears to be more utilization of the service by those who are subscribers as opposed to customers. In addition, there appear to be peak times for both genders around the 9-5 work day & over the weekend. Location also seems to play a factor in frequency of use with higher participation on the western part of the city than in other areas. In sum:
+
+- Males tend to use service more than Females
+- Subscribers tend to use service more than customers
+- There are peak times of travel to utilize service (early morning, post work hours, & weekends)
+- Location may play a factor in level of use
+- Rides tend to be 60 minutes or less
+
+There are also additional factors to consider for future visualizations. Such as: 
+
+- Investigating the relationship between neighborhoods with more 'use' and participants - why are people in these areas utilizing the service moreso than other areas?
+- Investigating Age of Users - are there other patterns here we are missing from an age variable? What does out 'typical' user look like from a demographic profile?
+
+Continual collection of data can also provide further insights on this service.
